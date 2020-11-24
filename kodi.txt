@@ -1,0 +1,5 @@
+0.0.0.0 api.themoviedb.org
+0.0.0.0 api.thetvdb.com
+0.0.0.0 www.imdb.com
+0.0.0.0 www.omdbapi.com
+0.0.0.0 embydata.com
