@@ -12,7 +12,11 @@
 0.0.0.0 (\.|^)discord\.com$
 0.0.0.0 i.instagram.com
 0.0.0.0 (\.|^)telephony\.goog$
-0.0.0.0 youtube.com
-0.0.0.0 twitter.com
-0.0.0.0 facebook.com
+0.0.0.0 (\.|^)youtube\.com$
+0.0.0.0 (\.|^)youtu\.be$
+0.0.0.0 (\.|^)ytimg\.com$
+0.0.0.0 ytimg.l.google.com
+0.0.0.0 (\.|^)googlevideo\.com$
+0.0.0.0 (\.|^)twitter\.com$
+0.0.0.0 (\.|^)facebook\.com$
 0.0.0.0 (\.|^)fbcdn\.net$
